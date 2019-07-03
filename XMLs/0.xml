@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>0.png</filename>
+	<path>/Users/takshilbharadwaj/YOLO/darkflow/Augmentor/input/0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>102</ymin>
+			<xmax>213</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
