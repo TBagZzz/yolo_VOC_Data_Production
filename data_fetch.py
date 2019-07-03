@@ -4,7 +4,7 @@ from google_images_download import google_images_download
 response = google_images_download.googleimagesdownload() 
 Keyword = input("Enter query : ")
 limit = int(input("No. of images to be downloaded : "))
-search_queries =[Keyword]
+search_queries = [Keyword]
 BASE_DIR = os.getcwd()
 cd = os.path.join(BASE_DIR,"chromedriver")
 tmp = os.path.join(BASE_DIR,"downloads/")   
