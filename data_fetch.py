@@ -4,7 +4,7 @@ from PIL import Image
 
 response = google_images_download.googleimagesdownload() 
 Keyword = input("Enter query (divide queries using ;) : ")
-limit = int(input("No. of images to be downloaded for each query: "))
+limit = int(input("No. of images to be downloaded for each query : "))
 nameInitiation = int(input("Enter image name beginning : "))
 search_queries = Keyword.split(";") 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

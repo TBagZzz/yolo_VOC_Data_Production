@@ -1,5 +1,5 @@
-#NOTE : CHECK OUT FOR sRGB format and remove it.
-#NOTE : Remove .DS_Store and other hidden files to avoid None Type Error.
+#NOTE : CHECK OUT FOR sRGB format and remove it
+#NOTE : Remove .DS_Store and other hidden files to avoid None Type Error
 import Augmentor
 import os
 import cv2

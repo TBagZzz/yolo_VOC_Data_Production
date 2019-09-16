@@ -15,7 +15,7 @@ For labelling image software :
 
 . python augmentationPy.py
 
-	NOTE :  Total images = size input x number of angles x number of images per angle
+	NOTE:  Total images = size input x number of angles x number of images per angle
 
 	example:		Enter number of images for angle : 5
 					Input angle with spaces : 0 30 60 90
