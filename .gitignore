@@ -2,4 +2,6 @@ lib/
 .DS_Store
 *.swp
 *.pyc
+*.jpeg
+*.png
 __pycache__

@@ -1,4 +1,4 @@
-#NOTE : CHECK OUT FOR sRGB format and remove it
+ #NOTE : CHECK OUT FOR sRGB format and remove it
 #NOTE : Remove .DS_Store and other hidden files to avoid None Type Error
 import Augmentor
 import os
@@ -11,9 +11,12 @@ import xml.etree.ElementTree as ET
 import random
 
 
+
+
 class multiAnnotation:
 
     def __init__(self):
+        #Initialising Values
         self.Path = os.getcwd()
         self.location1 = os.path.join(self.Path, "Results/")
         self.result_loc = os.path.join(self.Path, "tmp/")

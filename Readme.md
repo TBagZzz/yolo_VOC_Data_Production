@@ -21,3 +21,5 @@ For labelling image software :
 					Input angle with spaces : 0 30 60 90
 
 . Alter filter_addition() in augmentationPy.py for image filters.
+
+# More development on its way !

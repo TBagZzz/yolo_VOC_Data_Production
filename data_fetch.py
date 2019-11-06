@@ -2,6 +2,7 @@ import os
 from google_images_download import google_images_download 
 from PIL import Image
 
+#Providing details regarding our image search and its type
 response = google_images_download.googleimagesdownload() 
 Keyword = input("Enter query (divide queries using ;) : ")
 limit = int(input("No. of images to be downloaded for each query : "))
