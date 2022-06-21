@@ -4,5 +4,5 @@ selenium==3.141.0
 urllib3==1.25.3
 lxml==4.3.2
 opencv-contrib-python==4.1.0.25
-numpy==1.16.2
+numpy==1.22.0
 pillow
